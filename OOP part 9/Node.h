@@ -12,4 +12,4 @@ public:
 	Node* prev;
 
 	int GetData();
-};
+}; 

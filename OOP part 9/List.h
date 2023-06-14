@@ -26,4 +26,4 @@ public:
 	void DeleteEl(int index);
 
 	Node* FindElement(int index);
-};
+}; 

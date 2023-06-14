@@ -11,4 +11,4 @@ Node::~Node()
 int Node::GetData()
 {
     return _data;
-}
+} 
