@@ -7,7 +7,7 @@
 int main() {
 
 	setlocale(LC_ALL, "Russian");
-	
+	 
 	List list;
 	list.AddHead(10);
 	list.AddTail(20);
